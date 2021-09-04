@@ -1,3 +1,6 @@
+//Program coded on gnu gcc 9.2.0 C++14 compiler
+//Program to input a semester subjects and display them
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -14,6 +17,6 @@ int main()
     cout << "\nYour subjects are:\n " << endl;
     for(int i = 0; i < n; i++)
         cout << subjects[i] << endl;
-        
+
     return 0;
 }
