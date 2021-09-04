@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main()
@@ -7,14 +8,12 @@ int main()
     cin >> n;
     string subjects[n];
     cout << "Enter " << n << " subjects: " << endl;
+    cin.ignore();
+    for(int i = 0; i < n; ++i)
+        getline(cin, subjects[i]);
+    cout << "\nYour subjects are:\n " << endl;
     for(int i = 0; i < n; i++)
-    {
-        cin >> subjects[i];
-    }
-    cout << "Your subjects are: " << endl;
-    for(int i = 0; i < n; i++) {
         cout << subjects[i] << endl;
-    }
-
+        
     return 0;
 }
