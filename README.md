@@ -3,4 +3,4 @@ Programs done during Data Structures and Algorithms class in CSE M during semest
 
 Programs are done in C++ (Compiler - Borland C++ V3.00)
 
-'.exe' files can be run using terminal to use a program
+'.exe' files can be run using terminal to use that particular program (without the need of compiler)
