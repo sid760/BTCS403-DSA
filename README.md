@@ -1,6 +1,6 @@
 # BTCS403-DSA
 Programs done during Data Structures and Algorithms class in CSE M during semester 3, SVVV
 
-Programs are done in C++ (Compiler - Borland C++ V3.00)
+Programs are coded for **Borland Turbo C++ compiler V3.00** and/or **GNU GCC C++14 compiler v9.2.0**
 
 '.exe' files can be run using terminal to use that particular program (without the need of compiler)
