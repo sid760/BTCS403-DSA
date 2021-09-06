@@ -1,7 +1,8 @@
+//WAP to print address of array..
 #include <iostream>
 using namespace std;
 
-int main()
+int main()   
 {
     int arr1[5];
     int i;
