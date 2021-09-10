@@ -1,3 +1,5 @@
+//Program coded for C++14 MinGW compiler
+//Program to input data in an array, display them and also display array address in memory
 #include <iostream>
 using namespace std;
 
