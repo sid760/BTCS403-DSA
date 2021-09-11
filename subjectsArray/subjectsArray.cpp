@@ -1,5 +1,5 @@
 //Program coded on gnu gcc 9.2.0 C++14 compiler
-//Program to input a semester subjects and display them
+//Program to input a semester subjects and display where no. of subjects can vary
 
 #include <iostream>
 #include <string>
