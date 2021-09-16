@@ -3,7 +3,7 @@ Programs done during **Data Structures and Algorithms** class in **CSE M** durin
 
 Programs are coded for **Borland Turbo C++ compiler V3.00** and/or **GNU GCC C++14 compiler v9.2.0**
 Programs list: 
-   **Programs based on working of array (1-3):**
+   **Programs based on working of array (1-3): **
 1. arrayAddress.cpp - takes values in array and displays them with their addresses.
 2. subjectsArray.cpp - takes subject names of semester, store in an array, and display them.
 3. reverseArray.cpp - input values in an array and display them in reverse order.
