@@ -5,8 +5,14 @@ Programs are coded for **Borland Turbo C++ compiler V3.00** and/or **GNU GCC C++
 
 Programs list: 
 
+Array Programs: 
+
 1. arrayAddress.cpp - takes values in array and displays them with their addresses.
 2. subjectsArray.cpp - takes subject names of semester, store in an array, and display them.
 3. reverseArray.cpp - input values in an array and display them in reverse order.
 4. firmRecord.cpp - Creates a record of customers and salespersons in a firm, using array of structures.
 5. structBook.cpp - Creates a record of books with fields like title, author name, edition and price.
+
+Linked List Programs: 
+
+6. LinkedList_insertion_using_function - implements linked list and inserts node using insertion function.
