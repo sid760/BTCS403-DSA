@@ -9,11 +9,11 @@ Array Programs:
 
 1. arrayAddress.cpp - takes values in array and displays them with their addresses.
 2. subjectsArray.cpp - takes subject names of semester, store in an array, and display them.
-3. reverseArray.cpp - input values in an array and display them in reverse order.
-4. firmRecord.c - Creates a record of customers and salespersons in a firm, using array of structures.
-5. structBook.cpp - Creates a record of books with fields like title, author name, edition and price.
+3. reverseArray.cpp - input values in an **array** and display them in **reverse order**.
+4. firmRecord.c - Creates a record of customers and salespersons in a firm, using **array of structures**.
+5. structBook.cpp - Creates a record of books with fields like title, author name, edition and price using the **array of structures** and **pointers**
 
 Linked List Programs: 
 
 6. linkedList.cpp - basic program to create a linked list and its 5 elements.
-7. LinkedList_insertion_using_function.cpp - implements linked list and inserts node using insertion function.
+7. SLL_INS_LAST - implements **singly linked list** and inserts node at last position using ***push*** function, and also links them automatically
