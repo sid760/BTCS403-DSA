@@ -1,6 +1,5 @@
-//Circular linked list 
-//Program to insert node on the first position using a function
 //Implementing circular linked list through class
+//Operations in program - insertion and display
 #include <malloc.h>
 #include <iostream>
 using namespace std;

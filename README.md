@@ -18,8 +18,9 @@ Linked List Programs:
 
 6. linkedList.cpp - basic program to create a linked list and its 5 elements.
 7. SLL_INS_LAST - implements **singly linked list** and inserts node at last position using ***push*** function, and also links them automatically
+8. CircularLinkedList.cpp - Basic program to implement **circular linked list**
 
 Stack Programs: 
 
-8. stack.cpp - basic program to implement stack using array, and its basic operations
-9. stack_array_using_class - Menu driven program to implement stack array using class, and its various operations as methods of that class
+9. stack.cpp - basic program to implement stack using array, and its basic operations
+10. stack_array_using_class - Menu driven program to implement stack array using class, and its various operations as methods of that class
