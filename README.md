@@ -1,5 +1,5 @@
 # BTCS403-DSA Siddharth Mishra
-20100BTCSDSI07298 <hr>
+<h3>20100BTCSDSI07298 </h3> <hr>
 Programs done during **Data Structures and Algorithms** class in **CSE M** during semester 3, SVVV
 
 Programs are coded for **Borland Turbo C++ compiler V3.00** and/or **GNU GCC C++14 compiler v9.2.0**
