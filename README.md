@@ -25,6 +25,7 @@ Stack Programs:
 10. stack.cpp - basic program to implement stack using array, and its basic operations
 11. stack_array_using_class - Menu driven program to implement stack array using class, and its various operations as methods of that class
 
-
 Queue Programs:
+
 12. queue.cpp - basic program to implement static queue
+13. QueueLinkedList.cpp - Program to implement queue using linked list
