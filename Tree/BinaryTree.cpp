@@ -12,6 +12,14 @@ bnode* insert(int val) {
     newNode->left = newNode->right = NULL;
     return newNode;
 }
+void preorderTraversal(bnode* node) {
+  if (node == NULL)
+    return;
+
+  cout << node->data << "\t";
+  preorderTraversal(node->left);
+  preorderTraversal(node->right);
+}
 
 void inorderTraversal(bnode* node) {
   if (node == NULL)
@@ -20,6 +28,15 @@ void inorderTraversal(bnode* node) {
   inorderTraversal(node->left);
   cout << node->data << "\t";
   inorderTraversal(node->right);
+}
+
+void postorderTraversal(bnode* node) {
+  if (node == NULL)
+    return;
+
+  postorderTraversal(node->left);
+  postorderTraversal(node->right);
+  cout << node->data << "\t";
 }
 
 int main() {
@@ -32,7 +49,13 @@ int main() {
 	root->left->left = insert(5);
 	root->left->right = insert(25);
 	
-	cout << "Inorder Sequence: " << endl;
+	cout << "\nPreorder Sequence: " << endl;
+	preorderTraversal(root);
+	
+  cout << "\nInorder Sequence: " << endl;
 	inorderTraversal(root);
-	return 0;
+
+  cout << "\nPostorder Sequence: " << endl;
+	postorderTraversal(root);
+  return 0;
 }
