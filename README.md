@@ -3,11 +3,11 @@
 
 Programs are coded for **Borland Turbo C++ compiler V3.00** and/or **GNU GCC C++14 compiler v9.2.0**
 
-Programs list: 
+Programs list: /Array Programs 
 
-<h4>Array Programs:</h4> 
+####[Array Programs:](/Array Programs) 
 
-1. <font color="blue">arrayAddress.cpp</font> - takes values in **array** and displays them with their addresses.
+1. arrayAddress.cpp - takes values in **array** and displays them with their addresses.
 2. subjectsArray.cpp - takes subject names of semester, store in an **array**, and display them.
 3. reverseArray.cpp - input values in an **array** and display them in **reverse order**.
 4. firmRecord.c - Creates a record of customers and salespersons in a firm, using **array of structures**.
