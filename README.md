@@ -33,5 +33,5 @@ Queue Programs:
 
 Tree Programs:
 
-15. BinaryTree - Program to implement binary tree using linked list with _Preorder_,_Indorder_ & _Postorder_ Traversals
+15. BinaryTree - Program to implement **binary tree** using linked list with _Preorder_, _Indorder_ & _Postorder_ Traversals
 
