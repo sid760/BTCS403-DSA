@@ -28,8 +28,8 @@ Stack Programs:
 
 Queue Programs:
 
-13. queue.cpp - basic program to implement static queue
-14. QueueLinkedList.cpp - Program to implement queue using linked list
+13. queue.cpp - basic program to implement static **queue**
+14. QueueLinkedList.cpp - Program to implement **queue using linked list**
 
 Tree Programs:
 
